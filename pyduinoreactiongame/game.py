@@ -17,7 +17,7 @@ Ex.
 """
 
 from synapse.rf200HardTime import *
-from pyduino_lcd import *
+from pyduinolcd import *
 
 # IO pins
 BUZZER = D0
